@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e8e50a-1d39-48de-b05c-6530c7ce213e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1872">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_case/test_carInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#146#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test_case/test_login.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1520" />
+    <option name="y" value="46" />
+    <option name="width" value="1710" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectId" id="1Z3T0QEPpuw8Diye1XDcoQ1G5S0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="saa_apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saa_apitest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="saa_apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saa_apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="saa_apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saa_apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="saa_apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="saa_apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_result" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\吉诺SAA\saa_apitest" />
+      <recent name="D:\吉诺SAA\saa_apitest\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\吉诺SAA\saa_apitest" />
+      <recent name="D:\吉诺SAA\saa_apitest\test_case" />
+      <recent name="D:\吉诺SAA\saa_apitest\common\test_case" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_login.py">
+    <configuration name="do_excel" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" temporary="true">
+      <module name="saa_apitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common/publice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/publice/do_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="saa_apitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common/publice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/publice/http_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="saa_apitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_carInfo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="saa_apitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_carInfo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="saa_apitest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Unittests in test_carInfo.py" />
+        <item itemvalue="Python.http_request" />
+        <item itemvalue="Python.do_excel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e8e50a-1d39-48de-b05c-6530c7ce213e" name="Default Changelist" comment="" />
+      <created>1584149786857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584149786857</updated>
+      <workItem from="1584149787934" duration="20926000" />
+      <workItem from="1584498415114" duration="4116000" />
+      <workItem from="1585922018454" duration="58000" />
+      <workItem from="1586006014852" duration="15000" />
+      <workItem from="1586853347667" duration="156000" />
+      <workItem from="1586853507303" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 37m 08s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 39m 20s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 39m 39s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 40m 02s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 40m 54s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 42m 01s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 43m 20s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_carInfo_py - 2020.03.14 at 15h 43m 35s.xml">
+      <configuration name="Unittests in test_carInfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2020.03.18 at 10h 29m 09s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2020.03.18 at 10h 29m 42s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25297000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="147" y="54" width="1710" height="1008" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25272727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586742590600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-14.1920.1040@0.0.1920.1040" timestamp="1586742590600" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584085963202" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584070344762" />
+    <state width="949" height="220" key="GridCell.Tab.0.bottom" timestamp="1584089996704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584089996704" />
+    <state width="1898" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584070858684" />
+    <state width="949" height="220" key="GridCell.Tab.0.center" timestamp="1584089996704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="220" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584089996704" />
+    <state width="1898" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584070858684" />
+    <state width="949" height="220" key="GridCell.Tab.0.left" timestamp="1584089996704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="220" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584089996704" />
+    <state width="1898" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584070858683" />
+    <state width="949" height="220" key="GridCell.Tab.0.right" timestamp="1584089996704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="220" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584089996704" />
+    <state width="1898" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584070858684" />
+    <state x="601" y="213" key="SettingsEditor" timestamp="1586742564428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="213" key="SettingsEditor/0.0.1920.1040/-1920.-14.1920.1040@0.0.1920.1040" timestamp="1586742564428" />
+    <state x="-1319" y="207" key="SettingsEditor/0.0.1920.1040/-1920.-14.1920.1080@-1920.-14.1920.1080" timestamp="1584088168140" />
+    <state x="-1319" y="207" key="SettingsEditor/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584087848699" />
+    <state x="922" y="228" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584067011148" />
+    <state x="768" y="247" key="run.anything.popup" timestamp="1584080769184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="247" key="run.anything.popup/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584080769184" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584086977209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-14.1920.1080@0.0.1920.1040" timestamp="1584086977209" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584070626340" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_result/test_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_carInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#146#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
